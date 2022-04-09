@@ -1,0 +1,15 @@
+/* Our CSS file. */
+
+
+
+.box{
+    width:50%;
+    float:left;
+}
+.row{
+    height:50%;
+}
+img{
+    height:300px;
+    width:595px;
+}
